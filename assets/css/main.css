@@ -2145,6 +2145,14 @@ body.is-preload #wrapper {
     margin-top: -50px !important;
 }
 
+.project-link {
+    text-decoration: none;
+}
+
+.project-link span {
+    color: darkgray;
+}
+
 @media screen and (max-width: 980px) {
     .about-social {
         margin-top: -75px !important;
